@@ -35,6 +35,7 @@
 - Click `E2E Testing`, then `Start E2E Testing` in the desired browser
 - Select `a test suite` to run all tests related to that suite
 ## Future Features/Improvements
+- Add in-app forums and discussion groups
 - Google OAuth2.0 for a more secure login
 - Adding data visualization to the dashboard. Eg: treatment progress based on medication application
 - Allow users to upload a profile picture and add a pet profile picture
